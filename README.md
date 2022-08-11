@@ -1,27 +1,37 @@
-# QuickApp
+# Important
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+Issues of this repository are tracked on https://github.com/aspnetboilerplate/aspnetboilerplate. Please create your issues on https://github.com/aspnetboilerplate/aspnetboilerplate/issues.
 
-## Development server
+# Introduction
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This is a template to create **ASP.NET Core MVC / Angular** based startup projects for [ASP.NET Boilerplate](https://aspnetboilerplate.com/Pages/Documents). It has 2 different versions:
 
-## Code scaffolding
+1. [ASP.NET Core MVC & jQuery](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core) (server rendered multi-page application).
+2. [ASP.NET Core & Angular](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular) (single page application).
+ 
+User Interface is based on [AdminLTE theme](https://github.com/ColorlibHQ/AdminLTE).
+ 
+# Download
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Create & download your project from https://aspnetboilerplate.com/Templates
 
-## Build
+# Screenshots
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+#### Sample Dashboard Page
+![](_screenshots/module-zero-core-template-ui-home.png)
 
-## Running unit tests
+#### User Creation Modal
+![](_screenshots/module-zero-core-template-ui-user-create-modal.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Login Page
 
-## Running end-to-end tests
+![](_screenshots/module-zero-core-template-ui-login.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+# Documentation
 
-## Further help
+* [ASP.NET Core MVC & jQuery version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Core)
+* [ASP.NET Core & Angular  version.](https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# License
+
+[MIT](LICENSE).
